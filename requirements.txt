@@ -1,0 +1,9 @@
+Flask
+Jinja2
+gunicorn
+Werkzeug
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
